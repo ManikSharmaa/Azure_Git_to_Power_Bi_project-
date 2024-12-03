@@ -26,6 +26,8 @@ I implemented a Medallion Architecture in this project, creating bronze, silver 
 
 ![Synapse_views](https://github.com/user-attachments/assets/3cc6e4f3-049b-441b-89b9-44ef58b8f42f)
 
+## ----------------------------------------------------------------------------------------
+
 ![synapse_extTbales](https://github.com/user-attachments/assets/192fe4ea-7eda-49c1-bd7d-0c25be659d1f)
 
 - 📊 Connected Power BI to Synapse and visualized key insights using the Serverless SQL endpoint. 
@@ -34,5 +36,5 @@ I implemented a Medallion Architecture in this project, creating bronze, silver 
 
 
 
-Tools: Azure Data Factory, Azure Databricks, ADLS Gen2, Azure Synapse Analytics, Power BI. 
+# Tools: Azure Data Factory, Azure Databricks, ADLS Gen2, Azure Synapse Analytics, Power BI. 
 
